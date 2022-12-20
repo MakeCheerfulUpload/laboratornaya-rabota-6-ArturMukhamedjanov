@@ -1,0 +1,40 @@
+
+\begin{titlepage}
+\newpage
+
+\begin{center}
+    \underline{\bfseries Санкт-Петербургский национальный исследовательский университет ИТМО
+    }
+\end{center}
+\vspace{2cm}
+\begin{center}
+    \LARGE{\bfseries Факультет Программной Инженерии и Компьютерной \\техники
+    }
+\end{center}
+
+\vspace{4cm}
+\begin{center}
+    \Huge{\bfseries Информатика \\
+    Лабораторная №6\\
+    \LaTeX}
+    
+\end{center}
+\vspace{4cm}
+\begin{flushright}
+    \Large{Выполнил:\\
+    \textit{Мухамеджанов Артур Илдусович\\
+    P3114\\
+    }
+    Преподаватели:\\
+    \textit{Балакшин Б. В.\\
+    Машина Е. А.\\
+    }
+    }
+    \vspace{\fill}
+    \begin{center}
+        \bfseries{Санкт-Петерберург\\
+        2022
+        }
+    \end{center}
+\end{flushright}
+\end{titlepage}

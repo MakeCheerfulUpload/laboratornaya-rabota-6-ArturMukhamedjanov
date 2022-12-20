@@ -1,0 +1,13 @@
+\documentclass[11pt]{article}
+\usepackage{mathtext}
+\usepackage{geometry} 
+\usepackage{graphicx}
+\usepackage{graphics}
+
+\geometry{verbose,a4paper,tmargin=0.4cm,bmargin=1.5cm,lmargin=1.2cm,rmargin=1cm}
+\usepackage[T2A]{fontenc} % внутренняя T2A кодировка TeX
+\usepackage[utf8]{inputenc}
+\begin{document}
+\input{title_list}
+\input{kvant}
+\end{document}
